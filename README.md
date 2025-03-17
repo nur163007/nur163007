@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nur Mohammad</h1>
 <h3 align="center">🚀 Passionate about building scalable web applications, optimizing backend logic, integrating APIs and enhancing UI/UX with interactive JavaScript components.</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nur163007&show_icons=true&locale=en&layout=compact" alt="nur163007" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nur163007&show_icons=true&locale=en" alt="nur163007" /></p>
 
 - 🔭 I’m currently working on [erp of BRACNet](https://erp.bracnet.net/)
 
@@ -41,8 +44,3 @@
   <a href="javascript:void(0)"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
   <a href="javascript:void(0)"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/></a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nur163007&show_icons=true&locale=en&layout=compact" alt="nur163007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nur163007&show_icons=true&locale=en" alt="nur163007" /></p>
