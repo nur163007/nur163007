@@ -11,16 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://nur163007.github.io/](https://nur163007.github.io/)
 
-- 💬 Ask me about **my work**
-
 - 📫 How to reach me **https://www.linkedin.com/feed/**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1jTPU2sUOzWT8XlqpgJ_c2pwiSWVPaLeT/view?usp=drive_link
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -43,4 +36,9 @@
   <a href="javascript:void(0)"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
   <a href="javascript:void(0)"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
   <a href="javascript:void(0)"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/></a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
 </p>
