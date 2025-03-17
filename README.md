@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nur Mohammad</h1>
 <h3 align="center">🚀 Passionate about building scalable web applications, optimizing backend logic, integrating APIs and enhancing UI/UX with interactive JavaScript components.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nur163007&show_icons=true&locale=en&layout=compact" alt="nur163007" /></p>
+<p style="background:black;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nur163007&show_icons=true&locale=en&layout=compact" alt="nur163007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nur163007&show_icons=true&locale=en" alt="nur163007" /></p>
 
