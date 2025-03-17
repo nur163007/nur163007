@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/feed/**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1xO81FWOGXj1tu9W3peZtT6M721DOGtRS](https://drive.google.com/drive/folders/1xO81FWOGXj1tu9W3peZtT6M721DOGtRS)
+- 📄 Know about my experiences https://drive.google.com/file/d/1jTPU2sUOzWT8XlqpgJ_c2pwiSWVPaLeT/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
