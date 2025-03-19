@@ -3,7 +3,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nur163007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nur163007" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nur163007&show_icons=true&include_all_commits=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nur163007)](https://github.com/nur163007/github-readme-stats)
 
 - 🔭 I’m currently working on [erp of BRACNet](https://erp.bracnet.net/)
 
