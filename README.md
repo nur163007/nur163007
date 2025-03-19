@@ -3,7 +3,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nur163007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nur163007" /></p>
 
-![GitHub commit count](https://github-readme-stats.vercel.app/api?username=nur163007&show_icons=true&include_all_commits=true&theme=tokyonight)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nur163007&show_icons=true&locale=en&theme=tokyonight" alt="nur163007" /></p>
 
 - 🔭 I’m currently working on [erp of BRACNet](https://erp.bracnet.net/)
 
