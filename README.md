@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nur163007.github.io/](https://nur163007.github.io/)
 
-- 📫 How to reach me **https://www.linkedin.com/feed/**
+- 📫 How to reach me **https://www.linkedin.com/in/nur-mohammad-433903236/**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1jTPU2sUOzWT8XlqpgJ_c2pwiSWVPaLeT/view?usp=drive_link
 
