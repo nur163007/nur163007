@@ -1,40 +1,52 @@
 <h1 align="center">Hi 👋, I'm Nur Mohammad</h1>
 <h3 align="center">🚀 Passionate about building scalable web applications, optimizing backend logic, integrating APIs and enhancing UI/UX with interactive JavaScript components.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nur163007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nur163007" /></p>
+---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nur163007&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="nur163007" />
-
-- 🔭 I’m currently working on [erp of BRACNet](https://erp.bracnet.net/)
-
-- 🌱 I’m currently learning **NodeJS**
-
-- 👨‍💻 All of my projects are available at [https://nur163007.github.io/](https://nur163007.github.io/)
-
-- 📫 How to reach me **https://www.linkedin.com/in/nur-mohammad-433903236/**
-
-- 📄 Know about my experiences https://drive.google.com/file/d/1jTPU2sUOzWT8XlqpgJ_c2pwiSWVPaLeT/view?usp=drive_link
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
-  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
-  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a>
-  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
-  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/></a>
+### 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nur163007&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" alt="nur163007" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nur163007&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" alt="nur163007" />
+</p>
+
+---
+
+### 💻 About Me
+- 🔭 I’m currently working on [ERP of BRACNet](https://erp.bracnet.net/)  
+- 🌱 I’m currently learning **NodeJS**  
+- 👨‍💻 All of my projects are available at [https://nur163007.github.io/](https://nur163007.github.io/)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nur-mohammad-433903236/)  
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1jTPU2sUOzWT8XlqpgJ_c2pwiSWVPaLeT/view?usp=drive_link)  
+
+---
+
+### 🛠️ Languages and Tools
 <p align="left">
-<a href="https://www.linkedin.com/in/nur-mohammad-433903236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nur-mohammad-433903236/" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/nur-mohammad-433903236/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
